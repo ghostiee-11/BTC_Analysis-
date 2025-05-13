@@ -50,3 +50,10 @@ This project investigates the relationship between Bitcoin market sentiment and 
 - Test rule-based trading strategies under different market conditions
 - Add interactive dashboards for live sentiment and performance monitoring
 - Include hourly-level sentiment granularity for intraday pattern analysis
+
+---
+Author
+Aman Kumar
+- Email: aman0611kumar@gmail.com
+- linkedin : www.linkedin.com/in/aman-kumar-55a829324
+
